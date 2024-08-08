@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @evilgeniustt. I’m not a genius, much less evil. 😁
+- 👀 I’m interested in compilers.
+- I will write more soon...
